@@ -24,17 +24,17 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />  
  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />  
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />  
  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />  
  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />  
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />  
  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
  </a>
  </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avnesh141&theme=dark"" alt="avnesh141" /></p>
