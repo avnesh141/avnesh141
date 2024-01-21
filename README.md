@@ -16,6 +16,15 @@
   <a href="https://www.instagram.com/avnesh141"><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a> 
   <a href="mailto:avnesh.kumar.ece21@itbhu.ac.in"><img align="center" src="https://raw.githubusercontent.com/avnesh141/Notes-Site/master/client/src/Components/icons8-gmail-48.png"></a>
 </p>
+<h3 align="left">Badges:</h3>
+<p>
+  <img height="200" width="200" align="center" src="https://github.com/avnesh141/avnesh141/blob/337dd18fa6c8bc8edcd0690079ae5de62ed659a7/digital-ocean.webp">
+  <img height="200" width="200" align="center" src="https://github.com/avnesh141/avnesh141/blob/337dd18fa6c8bc8edcd0690079ae5de62ed659a7/surfer-moby.png">
+  <img height="200" width="200" align="center" src="https://github.com/avnesh141/avnesh141/blob/337dd18fa6c8bc8edcd0690079ae5de62ed659a7/hacktoberfest-reg.webp">
+  <img height="200" width="200" align="center" src="https://github.com/avnesh141/avnesh141/blob/337dd18fa6c8bc8edcd0690079ae5de62ed659a7/hacktoberfest-2.png">
+  <img height="200" width="200" align="center" src="https://github.com/avnesh141/avnesh141/blob/337dd18fa6c8bc8edcd0690079ae5de62ed659a7/hacktoberfest-3.png">
+  <img height="200" width="200" align="center" src="https://github.com/avnesh141/avnesh141/blob/337dd18fa6c8bc8edcd0690079ae5de62ed659a7/hacktoberfest-4.png">
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,6 +49,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
  </a>
  </p>
+ 
+<h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avnesh141&theme=dark"" alt="avnesh141" /></p>
 <!--
 **avnesh141/avnesh141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
