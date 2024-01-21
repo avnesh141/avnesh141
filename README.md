@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Avnesh Kumar
-
+![Profile Views](https://komarev.com/ghpvc/?username=avnesh141)
 <!--
 **avnesh141/avnesh141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Profile Views](https://komarev.com/ghpvc/?username=avnesh141)
+
 Here are some ideas to get you started:
                                                       
 - 🔭 I’m currently working on ...
