@@ -11,7 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/avnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayushi_04" height="30" width="70" /></a>
+<a href="https://codeforces.com/profile/avnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avnesh141" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/avnesh-kumar/"><img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> 
+  <a href="https://www.instagram.com/avnesh141"><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a> 
+  <a href="mailto:avnesh.kumar.ece21@itbhu.ac.in"><img align="center" src="https://raw.githubusercontent.com/avnesh141/Notes-Site/master/client/src/Components/icons8-gmail-48.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
